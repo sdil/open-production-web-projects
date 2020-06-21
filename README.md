@@ -1,6 +1,13 @@
 # Awesome Open Production-ready SaaS Projects
 
-A curated list of real world projects that are in use in production, offered as SaaS service and the source is available as Open source. The projects are grouped by the frameworks they're built upon.
+A curated list of real world projects that are:
+- In use in production
+- The source is available as Open source. 
+- Preferrably offered as SaaS service
+
+The projects are grouped by the frameworks they're built upon.
+
+This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Table of Contents
 

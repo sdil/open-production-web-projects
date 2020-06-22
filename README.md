@@ -6,7 +6,7 @@ A curated list of real world web projects that are:
 - The source is available as Open source
 - Can be deployed locally/on-prem
 - Ready to use (no development required)
-- Preferrably offered as SaaS service
+- Preferrably offered as SaaS service as well
 
 The projects are grouped by the language and framework they're built upon.
 

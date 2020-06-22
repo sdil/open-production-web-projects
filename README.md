@@ -1,16 +1,15 @@
-# Awesome Open Production-ready Projects
+# Open Production-ready Web Projects
 
-A curated list of real world projects that are:
+A curated list of real world web projects that are:
 
-- Web service
 - In use in production
 - The source is available as Open source
 - Can be deployed locally/on-prem
 - Preferrably offered as SaaS service
 
-The projects are grouped by the frameworks they're built upon.
+The projects are grouped by the language and framework they're built upon.
 
-Feel free to add more repositories here by sending a [Pull Request](https://github.com/sdil/awesome-production-open-projects).
+Feel free to add more repositories here by sending a [Pull Request](https://github.com/sdil/open-production-web-projects).
 
 This project is inspired by [free-for.dev](https://free-for.dev).
 
@@ -23,6 +22,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 * [Javascript](#javascript)
   * [ExpressJS](#expressjs)
   * [Koa](#koa)
+* [PHP](#php)
 * [Elixir](#elixir)
   * [Phoenix](#phoenix)
 * [Java](#java)

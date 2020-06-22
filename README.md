@@ -5,6 +5,7 @@ A curated list of real world web projects that are:
 - In use in production
 - The source is available as Open source
 - Can be deployed locally/on-prem
+- Ready to use (no development required)
 - Preferrably offered as SaaS service
 
 The projects are grouped by the language and framework they're built upon.
@@ -23,6 +24,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
   * [ExpressJS](#expressjs)
   * [Koa](#koa)
 * [PHP](#php)
+  * [Symfny](#symfony)
 * [Elixir](#elixir)
   * [Phoenix](#phoenix)
 * [Java](#java)
@@ -44,6 +46,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 - [Dev.to](https://github.com/thepracticaldev/dev.to) - A platform where software developers write articles, take part in discussions, and build their professional profiles.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion built for the next decade of the Internet.
+- [Spree](https://github.com/spree/spree) - E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting
 
 ## Javascript
 
@@ -60,6 +63,11 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Wordpress](https://github.com/WordPress/WordPress) - Content Management System.
 - [Magento](https://github.com/magento/magento2) - E-commerce platform, created using Zend Framework.
 - [Matomo](https://github.com/matomo-org/matomo) - The leading Free/Libre open analytics platform.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) - Fully scalable open source ecommerce solution
+
+### Symfony
+
+- [Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform
 
 ## Elixir
 

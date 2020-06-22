@@ -1,11 +1,16 @@
-# Awesome Open Production-ready SaaS Projects
+# Awesome Open Production-ready Projects
 
 A curated list of real world projects that are:
+
+- Web service
 - In use in production
-- The source is available as Open source. 
+- The source is available as Open source
+- Can be deployed locally/on-prem
 - Preferrably offered as SaaS service
 
 The projects are grouped by the frameworks they're built upon.
+
+Feel free to add more repositories here by sending a [Pull Request](https://github.com/sdil/awesome-production-open-projects).
 
 This project is inspired by [free-for.dev](https://free-for.dev).
 
@@ -18,6 +23,9 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 * [Javascript](#javascript)
   * [ExpressJS](#expressjs)
   * [Koa](#koa)
+* [Elixir](#elixir)
+  * [Phoenix](#phoenix)
+* [Java](#java)
 
 ## Python
 
@@ -59,3 +67,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 - [Plausible](https://github.com/plausible/analytics) - A simple and privacy friendly web analytics, alternative to Google Analytics.
 - [Supabase Realtime](https://github.com/supabase/realtime) - Listens to changes in a PostgreSQL Database and broadcasts them over websockets.
+
+## Java
+
+- [Elasticsearch](https://github.com/elastic/elasticsearch) - Distributed RESTful search engine built for the cloud

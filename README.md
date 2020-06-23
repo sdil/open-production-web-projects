@@ -1,33 +1,33 @@
-# Open Production-ready Web Projects
+# Open Production-ready Web Projects [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of real world web projects that are:
 
 - In use in production
 - The source is available as Open source
 - Can be deployed locally/on-prem
-- Ready to use (no development required)
+- Ready to use (zero development required)
 - Preferrably offered as SaaS service as well
 
-The projects are grouped by the language and framework they're built upon.
+The projects are grouped by the language and framework they're built upon. This list is intended to show how a particular framework is used and designed in real world application, not just in hobby/learning project. The developers should be able to learn how 
 
-Feel free to add more repositories here by sending a [Pull Request](https://github.com/sdil/open-production-web-projects).
+Feel free to add more project repositories here by sending a [Pull Request](https://github.com/sdil/open-production-web-projects).
 
 This project is inspired by [free-for.dev](https://free-for.dev).
 
-## Table of Contents
+## Contents
 
-* [Python](#python)
-  * [Django](#django)
-* [Ruby](#ruby)
-  * [Ruby on Rails](#ruby-on-rails)
-* [Javascript](#javascript)
-  * [ExpressJS](#expressjs)
-  * [Koa](#koa)
-* [PHP](#php)
-  * [Symfny](#symfony)
-* [Elixir](#elixir)
-  * [Phoenix](#phoenix)
-* [Java](#java)
+- [Python](#python)
+  - [Django](#django)
+- [Ruby](#ruby)
+  - [Ruby on Rails](#ruby-on-rails)
+- [Javascript](#javascript)
+  - [ExpressJS](#expressjs)
+  - [Koa](#koa)
+- [PHP](#php)
+  - [Symfony](#symfony)
+- [Elixir](#elixir)
+  - [Phoenix](#phoenix)
+- [Java](#java)
 
 ## Python
 

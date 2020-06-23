@@ -8,7 +8,7 @@ A curated list of real world web projects that are:
 - Ready to use (zero development required)
 - Preferrably offered as SaaS service as well
 
-The projects are grouped by the language and framework they're built upon. This list is intended to show how a particular framework is used and designed in real world application, not just in hobby/learning project. The developers should be able to learn how 
+The projects are grouped by the language and framework they're built upon. This list is intended to show how a particular framework is used and designed in real world application, not just in hobby/learning project. The developers should be able to learn how professional developers write a large codebase, how deployment looks like on PaaS/VM, how to work in a large team, and eventually contribute to them. 
 
 Feel free to add more project repositories here by sending a [Pull Request](https://github.com/sdil/open-production-web-projects).
 

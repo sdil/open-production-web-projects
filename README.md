@@ -18,6 +18,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 - [Python](#python)
   - [Django](#django)
+  - [Flask](#flask)
 - [Ruby](#ruby)
   - [Ruby on Rails](#ruby-on-rails)
 - [Javascript](#javascript)
@@ -42,6 +43,12 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Taiga](https://github.com/taigaio/taiga-back) - Agile project management platform.
 - [edX](https://github.com/edx/edx-platform) - A massive open online course (MOOC) provider created by Harvard and MIT.
 - [Cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+- [PostHog](https://github.com/PostHog/posthog) - Developer-friendly, open-source product analytics
+
+### Flask
+
+- [Infinity Search Solo](https://gitlab.com/infinitysearch/infinity-search-solo) - Privacy search/metasearch
+engine
 
 ## Ruby
 
@@ -50,14 +57,22 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Dev.to](https://github.com/thepracticaldev/dev.to) - A platform where software developers write articles, take part in discussions, and build their professional profiles.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion built for the next decade of the Internet.
 - [Spree](https://github.com/spree/spree) - E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting
+- [Mastodon](https://github.com/tootsuite/mastodon) - free, open-source social network server based on ActivityPub where users can follow friends and discover new ones
 
 ## Javascript
 
 - [Draw.io](https://github.com/jgraph/drawio) - Online diagramming web site
+- [Spectrum Chat](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
+- [RocketChat](https://github.com/RocketChat/Rocket.Chat) - Free Open Source Solution for team communications
 
-### ExpressJS
+### Express
 
 - [Veniqa](https://github.com/Viveckh/Veniqa) - Full Stack E-Commerce Solution. Veniqa (Originally Veniqa New York) was a New York-based fashion retail startup that served consumers in South Asian countries to shop from luxury western brands.
+- [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) - A community for software developers
+
+### Loopback
+
+- [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source codebase and curriculum. Learn to code at home
 
 ### Koa
 
@@ -69,10 +84,15 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Go
 
+- [Mattermost](https://github.com/mattermost/mattermost-server) - Open source, private cloud, Slack-alternative
+- [Fanthom](https://github.com/usefathom/fathom) - Simple, privacy-focused website analytics
+- [LogOwl](https://github.com/jz222/logowl) - Collects logs to monitor and analyse web applications
 - [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - Flexible E-Commerce Framework on top of Flamingo
 - [Flipt](https://github.com/markphelps/flipt) - A modern feature flag solution
+- [Passwall](https://github.com/passwall/passwall-server) - PassWall Server is the core backend for open source password manager PassWall platform. Using this server, you can safely store your passwords and access them from anywhere.
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [Berty](https://github.com/berty/berty) - A secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [Statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [twtxt](https://github.com/jointwt/twtxt) - Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 
 ## PHP

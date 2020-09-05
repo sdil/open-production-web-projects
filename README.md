@@ -23,6 +23,8 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Javascript](#javascript)
   - [ExpressJS](#expressjs)
   - [Koa](#koa)
+  - [AWS Amplify](#aws-amplify)
+- [Go](#go)
 - [PHP](#php)
   - [Symfony](#symfony)
 - [Elixir](#elixir)
@@ -39,6 +41,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Saleor](https://github.com/mirumee/saleor) - Modular, high performance, headless e-commerce storefront.
 - [Taiga](https://github.com/taigaio/taiga-back) - Agile project management platform.
 - [edX](https://github.com/edx/edx-platform) - A massive open online course (MOOC) provider created by Harvard and MIT.
+- [Cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 
 ## Ruby
 
@@ -50,6 +53,8 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Javascript
 
+- [Draw.io](https://github.com/jgraph/drawio) - Online diagramming web site
+
 ### ExpressJS
 
 - [Veniqa](https://github.com/Viveckh/Veniqa) - Full Stack E-Commerce Solution. Veniqa (Originally Veniqa New York) was a New York-based fashion retail startup that served consumers in South Asian countries to shop from luxury western brands.
@@ -57,6 +62,18 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 ### Koa
 
 - [Twitter Search](https://github.com/saasify-sh/twitter-search) - Instantly search across your entire Twitter history.
+
+### AWS Amplify
+
+- [Nyxo](https://github.com/hello-nyxo/nyxo-app) - A personal sleep tracker and sleep coach
+
+## Go
+
+- [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - Flexible E-Commerce Framework on top of Flamingo
+- [Flipt](https://github.com/markphelps/flipt) - A modern feature flag solution
+- [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+- [Berty](https://github.com/berty/berty) - A secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [twtxt](https://github.com/jointwt/twtxt) - Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 
 ## PHP
 
@@ -75,6 +92,10 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 - [Plausible](https://github.com/plausible/analytics) - A simple and privacy friendly web analytics, alternative to Google Analytics.
 - [Supabase Realtime](https://github.com/supabase/realtime) - Listens to changes in a PostgreSQL Database and broadcasts them over websockets.
+- [Accent](https://github.com/mirego/accent) - Open-source, self-hosted, developer-oriented translation tool
+- [Godello](https://github.com/alfredbaudisch/Godello) - Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)
+- [Papercups](https://github.com/papercups-io/papercups) - Open source live customer chat web app written in Elixir
+
 
 ## Java
 

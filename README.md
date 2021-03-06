@@ -59,6 +59,10 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Ship](https://github.com/TechFrederick/ship) - Services web app for SHIP, Student Homelessness Initiative Partnership of Frederick County
 - [Doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner.
 - [Piaf](https://github.com/etalab/piaf) - Question Answering annotation platform
+- [Hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
+- [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
+- [lifesavingrankings](https://github.com/rubenvanerk/lifesavingrankings) - Lifesaving Rankings tracks results for lifesaving pool competitions
+- [thenewboston.com](https://github.com/thenewboston-developers/Website-API) - REST API for thenewboston.com.
 
 ### Flask
 
@@ -150,6 +154,7 @@ engine
 - [Clutch](https://github.com/lyft/clutch) - An extensible platform for infrastructure management
 - [Sreengo](https://github.com/screego/server) - screen sharing for developers
 - [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farm management software. You can manage your farm areas, farm reservoirs, farm tasks, inventories, and the crop growing progress
+- [Wakapi](https://github.com/muety/wakapi) - A minimalist, self-hosted WakaTime-compatible backend for coding statistics.
 
 ## PHP
 
@@ -218,6 +223,7 @@ engine
 - [Breethe](https://github.com/simplabs/breethe-server) - Air Quality Data for Locations around the World
 - [Niex](https://github.com/jonklein/niex) - Niex is an interactive Elixir code notebook with support for embedded media and charting, built with Phoenix LiveView
 - [Crimson Commerce](https://github.com/amacgregor/crimson_commerce) - An open-source Ecommerce platform in Elixir and Phoenix
+- [Keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool, alternative to newsletter tools like Mailchimp or Sendinblue
 
 ### Plug
 

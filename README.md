@@ -65,6 +65,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [thenewboston.com](https://github.com/thenewboston-developers/Website-API) - REST API for thenewboston.com.
 - [Baserow](https://gitlab.com/briancaffey/baserow) - Baserow is an open source online database tool and Airtable alternative. Create your own database without technical experience
 - [SEC Filings App](https://gitlab.com/briancaffey/sec-filings-app) - A web app comprised of an API and web UI for viewing and analyzing SEC 13F filing data
+- [Flagsmith](https://github.com/Flagsmith/flagsmith-api) - Feature flagging and remote config service
 
 ### Flask
 
@@ -82,6 +83,7 @@ engine
 - [Spree](https://github.com/spree/spree) - E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting
 - [Mastodon](https://github.com/tootsuite/mastodon) - free, open-source social network server based on ActivityPub where users can follow friends and discover new ones
 - [Solectrus](https://github.com/solectrus/solectrus) - Photovoltaics Dashboard
+- [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system with many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails
 
 ## Javascript
 
@@ -159,6 +161,10 @@ engine
 - [Sreengo](https://github.com/screego/server) - screen sharing for developers
 - [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farm management software. You can manage your farm areas, farm reservoirs, farm tasks, inventories, and the crop growing progress
 - [Wakapi](https://github.com/muety/wakapi) - A minimalist, self-hosted WakaTime-compatible backend for coding statistics.
+- [ctrl-v](https://github.com/jackyzha0/ctrl-v) - a modern, open-source pastebin with latex and markdown rendering support
+- [Kowl](https://github.com/cloudhut/kowl) - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+- [Counter](https://github.com/ihucos/counter.dev) - Shows how many people visit your web application
+- [listmonk](https://github.com/knadh/listmonk) - listmonk is a standalone, self-hosted, newsletter and mailing list manager
 
 ## PHP
 

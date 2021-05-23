@@ -63,6 +63,8 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
 - [lifesavingrankings](https://github.com/rubenvanerk/lifesavingrankings) - Lifesaving Rankings tracks results for lifesaving pool competitions
 - [thenewboston.com](https://github.com/thenewboston-developers/Website-API) - REST API for thenewboston.com.
+- [Baserow](https://gitlab.com/briancaffey/baserow) - Baserow is an open source online database tool and Airtable alternative. Create your own database without technical experience
+- [SEC Filings App](https://gitlab.com/briancaffey/sec-filings-app) - A web app comprised of an API and web UI for viewing and analyzing SEC 13F filing data
 
 ### Flask
 
@@ -110,6 +112,8 @@ engine
 ### NextJS
 
 - [Umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [Cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+- [Calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 
 ### Fastify
 

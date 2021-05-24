@@ -151,7 +151,6 @@ engine
 - [Gilfoyle](https://github.com/dreamvo/gilfoyle) - Cloud-native solution to embed media streaming in any application at any scale
 - [Fider](https://github.com/getfider/fider) - Open platform to collect and prioritize product feedback
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [Docker Distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [Pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [Commento](https://gitlab.com/commento/commento/) - Commento is a platform that you can embed in your website to allow your readers to add comments
 - [LastBackend](https://github.com/lastbackend/lastbackend) - Last.Backend container management platform is the new and modern open-source container management system with service discovery, overlay networks and more

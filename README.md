@@ -164,6 +164,10 @@ engine
 - [Kowl](https://github.com/cloudhut/kowl) - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
 - [Counter](https://github.com/ihucos/counter.dev) - Shows how many people visit your web application
 - [listmonk](https://github.com/knadh/listmonk) - listmonk is a standalone, self-hosted, newsletter and mailing list manager
+- [Open Accounting](https://github.com/openaccounting/oa-server) - Open source accounting platform
+- [Analytics Box](https://github.com/KetanIP/analytics) - analytics tool like google analytics but instead of ripping user's privacy off them like google it respects their privacy and doesn't collect any unnecessary information
+- [GrowthBook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
+- [Open Replay](https://github.com/openreplay/openreplay) - developer-friendly, open-source session replay.
 
 ## PHP
 

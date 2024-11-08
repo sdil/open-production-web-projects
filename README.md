@@ -87,7 +87,6 @@ engine
 
 ## Javascript
 
-- [Draw.io](https://github.com/jgraph/drawio) - Online diagramming web site
 - [Spectrum Chat](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [RocketChat](https://github.com/RocketChat/Rocket.Chat) - Free Open Source Solution for team communications
 - [Paisley](https://github.com/uduakabaci/Paisley) - Paisley is an open-source alternative to mailbrew built with freedom in mind.

@@ -40,7 +40,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
   - [Plug](#plug)
 - [Java](#java)
 - [Crystal](#crystal)
-  - [Lucky](#lucky)
+  - [Lucky](#lucky-framework)
 - [Clojure](#clojure)
 - [C#](#c#)
 

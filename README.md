@@ -105,6 +105,7 @@ engine
 - [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) - A community for software developers
 - [Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [Chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform for creating charts out of different data sources (databases and APIs
+- [Posnic](https://github.com/Posnic/POS) - AGPL open-source POS and billing software with offline-first checkout and optional online/self-hosted workflows ([website](https://www.posnic.com/)).
 
 ### NestJS
 

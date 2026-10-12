@@ -169,6 +169,7 @@ engine
 - [GrowthBook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 - [Open Replay](https://github.com/openreplay/openreplay) - developer-friendly, open-source session replay.
 - [Open Chat](https://github.com/danielgestwa/OpenChat) - Open Source chat with RSS feed.
+- [SolidPing](https://github.com/fclairamb/solidping) - Open-source uptime and synthetic monitoring with status pages and alerting, self-hosted or as a hosted service.
 
 ## PHP
 

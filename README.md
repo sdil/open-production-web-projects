@@ -120,6 +120,7 @@ engine
 ### Fastify
 
 - [HospitalRun](https://github.com/HospitalRun/hospitalrun) - Free software for developing world hospitals
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.
 
 ### Loopback
 

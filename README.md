@@ -18,6 +18,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 - [Python](#python)
   - [Django](#django)
+  - [FastAPI](#fastapi)
   - [Flask](#flask)
 - [Ruby](#ruby)
   - [Ruby on Rails](#ruby-on-rails)
@@ -66,6 +67,13 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 - [Baserow](https://gitlab.com/briancaffey/baserow) - Baserow is an open source online database tool and Airtable alternative. Create your own database without technical experience
 - [SEC Filings App](https://gitlab.com/briancaffey/sec-filings-app) - A web app comprised of an API and web UI for viewing and analyzing SEC 13F filing data
 - [Flagsmith](https://github.com/Flagsmith/flagsmith-api) - Feature flagging and remote config service
+
+### FastAPI
+
+- [Dispatch](https://github.com/Netflix/dispatch) - Incident management platform built and run by Netflix.
+- [Polar](https://github.com/polarsource/polar) - Billing and monetization platform for developers, behind the polar.sh service.
+- [Bitcart](https://github.com/bitcart/bitcart) - Self-hosted cryptocurrency payment processor.
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Research workspace for literature search, evidence screening, data analysis, and writing, behind the app.sixsentences.com service.
 
 ### Flask
 

@@ -116,6 +116,7 @@ engine
 - [Umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [Cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [Calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [Trace](https://github.com/TarunTomar122/trace) - Daily tech and AI news brief that groups coverage from 100+ sources into one story per event, with every source linked. Self-hostable with Docker Compose, or use it free at [yourtrace.online](https://www.yourtrace.online).
 
 ### Fastify
 
